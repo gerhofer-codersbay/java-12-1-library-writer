@@ -1,6 +1,6 @@
 # Java
 
-## Library writer
+## Library writer & reader
 
 Entwickle ein kleines Programm, zum Verwalten deiner Lieblingsbücher. 
 
@@ -9,6 +9,7 @@ Dein Programm sollte mindestens die Klassen:
 * Author - Repräsentation eines Autors
 * Genre - Enum zur Repräsentation von verschiedenen Genres
 * LibraryWriter - Eine Klasse die eine Liste von Büchern in einem bestimmten Format in eine Datei schreibt. 
+* LibraryReader - Eine Klasse die eine Datei liest und eine Liste von Büchern daraus liest. 
 
 Schreib Unit Tests für den Writer, für mindestens diese Fälle:
 * eine leere Liste von Büchern persistieren
